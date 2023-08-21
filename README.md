@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with experience in React, React Native, Sp
 
 ## 💻 Technologies and Tools
 
-- Front-end: React, React Native, HTML, CSS, JavaScript
+- Front-end: React, React Native, TypeScript, JavaScript, HTML, CSS, 
 - Back-end: Spring Boot, Node.js
 - Database: MySQL, MongoDB
 - Version Control: Git, GitHub
