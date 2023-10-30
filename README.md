@@ -1,21 +1,20 @@
 # Hi there, I'm Chamara Bandara! 👋
 
-I'm a passionate full-stack developer with experience in React, React Native, Spring Boot, Node.js, HTML, CSS, and JavaScript. I enjoy building scalable and user-friendly web applications. 
+I am a passionate software engineer, wielding a versatile arsenal of technologies. Armed with a BSc Engineering degree from the University of Moratuwa, I thrive in the dynamic world of web development. My craft encompasses React, Angular, Node js, Spring Boot, and Nest.js. I possess a unique blend of technical prowess and design finesse, ensuring that the web applications I create are both cutting-edge and visually stunning. Together, let's embark on an exhilarating journey through the ever-evolving digital landscape, where innovation knows no bounds 
 
 ## 💻 Technologies and Tools
 
-- Front-end: React, React Native, TypeScript, JavaScript, HTML, CSS, 
-- Back-end: Spring Boot, Node.js
-- Database: MySQL, MongoDB
+- Front-end: React, Angular, TypeScript, JavaScript, HTML, CSS,NextJs 
+- Back-end: Spring Boot, Node.js,NestJs
+- Database: MySQL, MongoDB,H2 Database
 - Version Control: Git, GitHub
-- Other: RESTful APIs, Agile Development, Test-Driven Development
+- Other: RESTful APIs, Agile Development
 
 ## 🌱 Currently Learning
 
 I'm always eager to learn and stay up-to-date with the latest technologies. Here are a few things I'm currently focused on:
 
 - TypeScript
-- GraphQL
 - Docker
 - AWS
 
@@ -23,7 +22,11 @@ I'm always eager to learn and stay up-to-date with the latest technologies. Here
 
 Here are some noteworthy projects I've worked on:
 
-- [Project 1](https://github.com/your-username/project-1): Brief description of the project.
+- TravelFlex
+    Demo App : (https://mellifluous-licorice-4c21ab.netlify.app/ )
+    Git-Hub FE: (https://github.com/chamarabandarawd/Car-Manager-System--client-side.git)
+    Git-hub BE : (https://github.com/chamarabandarawd/ParaSift-Back-End.git)
+  Desc: TravelFlex is a web-based travel management system that combines a React-based client-side for an intuitive user experience with a secure Spring Boot server-side using Spring Security with JWT authentication.
 - [Project 2](https://github.com/your-username/project-2): Brief description of the project.
 - [Project 3](https://github.com/your-username/project-3): Brief description of the project.
 
