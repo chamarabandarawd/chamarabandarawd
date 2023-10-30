@@ -40,6 +40,6 @@ Feel free to connect with me or explore my other projects:
 
 ## 📫 Get in Touch
 
-If you'd like to collaborate on a project or have any questions, feel free to reach out to me at your-email@example.com.
+If you'd like to collaborate on a project or have any questions, feel free to reach out to me at chamara.newofficial@gmail.com <chamara.newofficial@gmail.com>;.
 
 Let's build amazing things together! 🚀
