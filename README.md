@@ -34,9 +34,9 @@ Here are some noteworthy projects I've worked on:
 
 Feel free to connect with me or explore my other projects:
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
-- Portfolio: [your-portfolio.com](https://www.your-portfolio.com)
+- GitHub: [Chamara Bandara]([https://github.com/your-username](https://github.com/chamarabandarawd))
+- LinkedIn: [Chamara Bandara]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/chamara-bandara-096681141?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BONRsWU8oTVqINEw6JHcP0Q%3D%3D))
+- Portfolio: [Chamara Bandara]([https://www.your-portfolio.com](https://lustrous-pavlova-33adfe.netlify.app/))
 
 ## 📫 Get in Touch
 
